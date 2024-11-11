@@ -17,14 +17,14 @@ const [listProjects] = useState([
     des: ' A Mernstack based Ecommerce web application which deals with Selling of automotive parts . Its built with eye catching UI , contains three  modules Admin, User, shop .',
     mission: 'Handled both front-end and Back-end',
     language: 'HTML5, CSS3, React JS, Node Js,...',
-    images: '/project2.PNG'
+    images: '/Screenshot 2024-11-11 125711.png'
   },
   {
     name: 'CAT WEB APP',
     des: 'A React.js web app dedicated to cat lovers, providing a curated Selection of cat accessories and detailed information on cat care. Users can browse and purchase high-quality products, read expert articles, and discover tips to keep their cats happy and healthy.',
     mission: 'Handled both front-end and Back-end',
     language: 'HTML5, CSS3, React JS, Node Js,...',
-    images: '/project2.PNG'
+    images: '/Screenshot 2024-11-11 125834.png'
   },
 
 ]);
