@@ -10,7 +10,7 @@ const [listProjects] = useState([
     des: 'Crowd funding is a way to raise money from a large number of individual investors or companies with the evolution of blockchain.our proposed work have a bright future and a large scope for improvement and evolution. In the future, the proposed research work can progress further in an easier and safer way for all ideas that are achieved through the proposed crowdfunding application The main objectives is crowd funding using smart contracts in block chain',
     mission: 'Front-end Developer',
     language: 'HTML5, CSS3, Django,...',
-    images: '/project1.PNG'
+    images: '/HOME.png'
   },
   {
     name: ' BIKE WEB APP',
